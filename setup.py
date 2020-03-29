@@ -8,7 +8,7 @@ setup(
     install_requires=['channels==2.2.0',
                       'channels-redis==2.4.0',
                       'Django==2.0',
-                      'djangorestframework==3.8',
+                      'djangorestframework==3.9.1',
                       'django-cors-headers==2.2.0',
                       'psycopg2==2.7.4',
                       'gunicorn==19.7.1',
